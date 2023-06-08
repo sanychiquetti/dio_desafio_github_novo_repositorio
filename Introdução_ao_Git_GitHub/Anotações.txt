@@ -1,0 +1,4 @@
+Link para Git: https://git-scm.com/download/win
+O Git Bash � um console para um terminal estendido para otimizar o uso do Git.
+
+Primeiro branch
